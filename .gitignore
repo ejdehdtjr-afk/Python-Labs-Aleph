@@ -1,0 +1,15 @@
+.env
+.venv/
+
+.env.*
+!.env.example
+.ven/
+__pycache__/
+*.py[cod]
+*.log
+
+# 로컬 비밀값 및 재생성 가능한 실행 산출물
+.omc/
+vendor/
+*.db
+*.sqlite*
